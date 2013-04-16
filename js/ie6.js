@@ -1,0 +1,1 @@
+DD_belatedPNG.fix('#f .r1 .c2 a,#h .r1 .c1 a,#h .r1 .c1');
