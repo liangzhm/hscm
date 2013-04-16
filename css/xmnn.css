@@ -111,7 +111,7 @@ strong{font-weight:bold;}
 #h,#b,#f{width:1202px; margin:0 auto;}
 #h{position:relative; background:#fff;}
 #h .r1{background:url(../img/h-r1.png) repeat-x; position:absolute; z-index:999; width:100%; top:53px;}
-#h .r1 .c1{ background:url(../img/h-r1-c1.png) no-repeat; width:309px; height:182px; position:absolute; left:96px; top:-59px;}
+#h .r1 .c1{ background:url(../img/h-r1-c1.png) no-repeat; width:309px; height:182px; position:absolute; left:96px; top:-53px;}
 #h .r1 .c1 a{display:block;width:253px; height:71px; margin-left:25px; margin-top:37px; background:url(../img/h-r1-c1-a.png) no-repeat;}
 .nav{color:#fff; margin-left:338px; padding:16px 0;}
 .nav a{color:#fff;}
