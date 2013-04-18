@@ -1,8 +1,4 @@
 $(function(){
-	$('.nav .li').hover(function(){
-		$('.nav .li ul').hide();
-		$(this).find('ul').show();	
-	})
 	//tab
 		$('.tab .h li').hover(function(){
         $(this).addClass('active').siblings().removeClass('active');
