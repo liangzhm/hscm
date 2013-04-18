@@ -110,17 +110,14 @@ strong{font-weight:bold;}
 .w{width: 997px; margin: 0 auto;}
 #h,#b,#f{width:1202px; margin:0 auto;}
 #h{position:relative; background:#fff;}
-#h .r1{background:url(../img/h-r1.png) repeat-x; position:absolute; z-index:999; width:100%; top:53px;}
-#h .r1 .c1{ background:url(../img/h-r1-c1.png) no-repeat; width:309px; height:182px; position:absolute; left:96px; top:-59px;}
-#h .r1 .c1 a{display:block;width:253px; height:71px; margin-left:25px; margin-top:37px; background:url(../img/h-r1-c1-a.png) no-repeat;}
+#h .r1{background:url(../img/h-r1.png) repeat-x; position:absolute; z-index:999; width:100%; top:45px;}
+#h .r1 .c1{ background:url(../img/h-r1-c1.png) no-repeat; width:249px; height:139px; position:absolute; left:96px; top:-56px;}
+#h .r1 .c1 a{display:block;width:253px; height:71px; margin-left:29px; margin-top:42px; background:url(../img/h-r1-c1-a.png) no-repeat;}
 .nav{color:#fff; margin-left:338px; padding:16px 0;}
 .nav a{color:#fff;}
 .nav a:hover{ color:#fff;}
 .nav .li{float:left; display:inline; position:relative; padding:0 12px; border-left:1px solid #FBE9EB;}
 .nav .li1{border:none;}
-.nav .li ul{position:absolute; top:48px; left:0; background:#DB2332; width:256px; height:24px; line-height:24px; padding-left:13px; display:none;}
-.nav .li .i1{ width:29px; height:15px; background:url(../img/h-r1-c2-i.png) no-repeat; position:absolute; top:-19px; left:26px;}
-.nav .li li{display:inline;}
 #h .r1 .c3{ width:125px; padding-top:8px;}
 #h .r1 .c3 a{ height:42px; line-height:36px; color:#fff; padding-left:50px; background:url(../img/h-r1-c3.png) no-repeat; display:block;}
 #b{background:#fff;}
@@ -128,10 +125,10 @@ strong{font-weight:bold;}
 #b .r1 .c1{width:292px; margin-right:56px;}
 #b .r1 .c2{width:292px;}
 #b .r1 .c3{width:312px;}
-#f{background:#DB2332; height:67px; color:#fff;}
+#f{background:#DB2332; height:50px; color:#fff;}
 #f .r1{position:relative;}
-#f .r1 .c1{padding-top:24px;}
-#f .r1 .c2{padding-top:14px;}
+#f .r1 .c1{padding-top:20px;}
+#f .r1 .c2{padding-top:10px;}
 #f .r1 .c2 a{background:url(../img/f-r1-c2.png) no-repeat; width:227px; height:24px; display:block;}
 #f .r1 .c3{position:absolute; right:-211px; top:-94px;}
 #f .r1 .c3 a{ display:block; width:96px; height:94px; background:url(../img/f-r1-c3.gif) no-repeat;}
@@ -142,24 +139,28 @@ strong{font-weight:bold;}
 .m1{margin-bottom:31px;}
 .m1 .br1{margin-left:-12px;}
 .m1 .br1 dl{margin-left:12px; position:relative;}
-.m1 .br1 dt{ width:191px; height:52px; padding-top:22px; position:absolute; right:5px; bottom:5px; font-size:37px;}
-.m1 .br1 dt a{color:#fff;}
-.m1 .br1 .dl1 dt{background:#DC3846;}
-.m1 .br1 .dl2 dt{background:#E4A812;}
-.m1 .br1 .dl3 dt{background:#1F9DE9;}
+.m1 .br1 dt{ position:absolute; right:5px; bottom:5px; font-size:37px;}
+.m1 .br1 dt a{ display:block; text-indent:-999em; width:191px; height:51px; padding-top:22px;}
+.m1 .dl1 dt a{background:url(../img/m1-dl1.png) no-repeat;}
+.m1 .dl1 dt a:hover{background:url(../img/m1-dl1-hover.png) no-repeat;}
+.m1 .dl2 dt a{background:url(../img/m1-dl2.png) no-repeat;}
+.m1 .dl2 dt a:hover{background:url(../img/m1-dl2-hover.png) no-repeat;}
+.m1 .dl3 dt a{background:url(../img/m1-dl3.png) no-repeat;}
+.m1 .dl3 dt a:hover{background:url(../img/m1-dl3-hover.png) no-repeat;}
 .m1 .br1 img{border:5px solid #E4E4E4;}
 
 /*-------------------海视新闻m2--------------------------*/
-.m2 .h{margin-bottom:22px;}
+.m2 .h{margin-bottom:18px;}
 .m2 .br1{margin-bottom:9px;}
 .m2 .br1 img{padding:3px; border:1px solid #999999;}
 .m2 .br2{margin-bottom:10px;}
-.m2 .br2 li{padding-left:17px; background:url(../img/m2-li.gif) no-repeat 7px center; font-size:14px; line-height:24px;}
+.m2 .br2 li{padding-left:17px; background:url(../img/m2-li.gif) no-repeat 7px center; font-size:14px; line-height:26px;}
 .m2 .br3{ text-align:right;}
 /*-------------------关于海视m3--------------------------*/
-.m3 .h{margin-bottom:22px;}
-.m3 .br1{margin-bottom:9px;}
-.m3 .br1 img{padding:3px; border:1px solid #999999;}
+.m3 .h{margin-bottom:18px;}
+.m3 .br1{margin-bottom:16px; border-bottom:1px solid #C2C0C0; padding-bottom:16px;}
+.m3 .br1 p{text-indent:2em; line-height:26px;}
+.m3 .br1 a{color:#DC3846;}
 .m3 .br2{margin-bottom:10px;}
 .m3 .br2 li{font-size:14px; line-height:24px;}
 .m3 .br3{ text-align:right;}
