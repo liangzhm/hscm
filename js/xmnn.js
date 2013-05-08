@@ -30,4 +30,10 @@ $(function(){
 	})
 	//报名参加m7
 	$('.m7 form').html5Validate();
+	//海视频道
+	$('.m10 .br2 dl').click(function(){
+		var index=$('.m10 .br2 dl').index(this);
+		$('.m10 .br1').eq(index).show().siblings('.br1').hide();
+		return false;
+	})
 })

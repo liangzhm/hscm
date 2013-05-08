@@ -251,7 +251,8 @@ strong{font-weight:bold;}
 /*-------------------模块m10--------------------------*/
 .m10 .b dl{}
 .m10 .b dt{height:31px; line-height:31px; text-align:center; margin-top:-31px; background:#BCBEC0; position:relative; z-index:2;}
-.m10 .br1{margin-bottom:25px;}
+.m10 .b .active{display:block;}
+.m10 .br1{margin-bottom:25px; display:none; width:500px; margin:0 auto;}
 .m10 .br1 dl{width:499px; margin:0 auto;}
 .m10 .br2{ margin-left:-21px;}
 .m10 .br2 dl{margin-bottom:32px;background:url(../img/m10-dl.png) no-repeat; width:220px; padding:0 16px; height:159px;}
