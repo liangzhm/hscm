@@ -258,7 +258,7 @@ strong{font-weight:bold;}
 .m10 .br2 dl{margin-bottom:32px;background:url(../img/m10-dl.png) no-repeat; width:220px; padding:0 16px; height:159px;}
 .m10 .br2 dd{padding-top:14px;}
 .m10 .f{text-align:center;}
-.m10 .f a{ background:#A5A5A4; display:inline-block; width:16px; height:20px; line-height:20px; text-align:center; color:#fff;}
+.m10 .f a{ background:#A5A5A4; display:inline-block; padding:0 5px; height:20px; line-height:20px; text-align:center; color:#fff;}
 .m10 .f .current{background:#D82E37;}
 /*-------------------模块m11--------------------------*/
 .m11 .br1{ margin-bottom:23px;}
