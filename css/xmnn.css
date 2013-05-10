@@ -152,13 +152,12 @@ strong{font-weight:bold;}
 .m1 .br1{margin-left:-12px;}
 .m1 .br1 dl{margin-left:12px; position:relative;}
 .m1 .br1 dt{ position:absolute; right:5px; bottom:5px; font-size:37px;}
-.m1 .br1 dt a{ display:block; text-indent:-999em; width:191px; height:51px; padding-top:22px;}
-.m1 .dl1 dt a{background:url(../img/m1-dl1.png) no-repeat;}
-.m1 .dl1 dt a:hover{background:url(../img/m1-dl1-hover.png) no-repeat;}
-.m1 .dl2 dt a{background:url(../img/m1-dl2.png) no-repeat;}
-.m1 .dl2 dt a:hover{background:url(../img/m1-dl2-hover.png) no-repeat;}
-.m1 .dl3 dt a{background:url(../img/m1-dl3.png) no-repeat;}
-.m1 .dl3 dt a:hover{background:url(../img/m1-dl3-hover.png) no-repeat;}
+.m1 .br1 dt a{ display:block; text-indent:-999em; width:191px; height:51px; padding-top:22px; background:url(../img/m1-dl.png) no-repeat;}
+.m1 .dl1 dt a:hover{ background-position:left bottom;}
+.m1 .dl2 dt a{ background-position:-191px top;}
+.m1 .dl2 dt a:hover{ background-position:-191px bottom;}
+.m1 .dl3 dt a{ background-position:right top;}
+.m1 .dl3 dt a:hover{ background-position:right bottom;}
 .m1 .br1 img{border:5px solid #E4E4E4;}
 
 /*-------------------海视新闻m2--------------------------*/
