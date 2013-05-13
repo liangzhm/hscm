@@ -250,11 +250,13 @@ strong{font-weight:bold;}
 .m9 .f .current{background:#D82E37;}
 /*-------------------模块m10--------------------------*/
 .m10 .b dl{}
-.m10 .b dt{height:31px; line-height:31px; text-align:center; margin-top:-31px; background:#BCBEC0; position:relative; z-index:2;}
+.m10 .b dt{height:31px; line-height:31px; text-align:center; margin-top:-31px; background:rgba(0,0,0,0.5); background:#000; position:relative; z-index:2;}
+.m10 .b dt a{color:#fff;}
 .m10 .b .active{display:block;}
-.m10 .br1{display:none; width:500px; margin:0 auto 25px;}
+.m10 .br1{display:none; width:500px; margin:0 auto 25px 102px;}
 .m10 .br1 dl{width:499px; margin:0 auto;}
-.m10 .br2{ margin-left:-21px;}
+.m10 .br2{ margin-left:-21px; position:relative;}
+.m10 .br2 .a1{position:absolute; width:131px; height:40px; line-height:36px; color:#fff; background:url(../img/m10-a1.png) no-repeat; text-align:center; top:-75px; right:0;}
 .m10 .br2 dl{margin-bottom:32px;background:url(../img/m10-dl.png) no-repeat; width:220px; padding:0 16px; height:159px;}
 .m10 .br2 dd{padding-top:14px;}
 .m10 .f{text-align:center;}
@@ -270,8 +272,10 @@ strong{font-weight:bold;}
 .m11 .f{text-align:center;}
 .m11 .f a{ background:#A5A5A4; display:inline-block; width:16px; height:20px; line-height:20px; text-align:center; color:#fff;}
 .m11 .f .current{background:#D82E37;}
-/*-------------------模块m12--------------------------*/
-
+/*-------------------三屏联播m12--------------------------*/
+.m12{padding-top:37px; padding-bottom:170px;}
+.m12 .br1{margin-left:-14px;}
+.m12 .br1 .bc{margin-left:14px;}
 /*-------------------模块m13--------------------------*/
 
 /*-------------------模块m14--------------------------*/
