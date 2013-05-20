@@ -36,4 +36,12 @@ $(function(){
 		$('.m10 .br1').eq(index).show().siblings('.br1').hide();
 		return false;
 	})
+	//二级导航
+	$("#b .r3 .c1 .li").toggle(function(){
+		$(this).find("ul").show();	
+		return false;
+	},function(){
+		$(this).find("ul").hide();
+		return false;	
+	})
 })
