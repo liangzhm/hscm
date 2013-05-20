@@ -132,7 +132,8 @@ strong{font-weight:bold;}
 #b .r3 .c1{width:214px; padding-top:17px;}
 #b .r3 .c1 a{display:block; width:185px; height:32px; line-height:32px; background:#D2D4D4; text-align:center; font-size:16px;margin-bottom:8px;}
 #b .r3 .c1 a:hover,
-#b .r3 .c1 .a1{background:#DB2332; color:#fff;}
+#b .r3 .c1 .a1,
+#b .r3 .c1 .active{background:#DB2332; color:#fff;}
 #b .r3 .c1 .li ul{display:none;}
 #b .r3 .c2{  padding:15px 0 76px 43px; width:736px; border-left:1px solid #C2C1C1;}
 #f{background:#DB2332; height:50px; color:#fff;}
