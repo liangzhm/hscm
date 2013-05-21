@@ -201,12 +201,13 @@ strong{font-weight:bold;}
 .m6 .b1 .bc2{width:150px;}
 .m6 .b1 .bc2 ul{height:477px; overflow:hidden;}
 .m6 .b1 .bc2 li{margin-bottom:7px;}
-.m6 .b2 img{border:1px solid #E4E4E4; padding:7px 9px;}
+.m6 .b2 img{border:1px solid #E4E4E4; padding:7px 8px 7px 9px;}
 .m6 .prev,
 .m6 .next{width:25px; height:23px; display:block; margin-left:65px; text-indent:-999em;}
 .m6 .prev{ background:url(../img/m6-prev.gif) no-repeat; margin-bottom:2px;}
 .m6 .next{ background:url(../img/m6-next.gif) no-repeat; margin-top:-2px;}
 /*-------------------报名参加m7 mb--------------------------*/
+.m7 h2{font-size:21px; height:38px; line-height:38px; background:#E2E2E2; margin-bottom:26px; text-align:center;}
 .m7 .b1,
 .m7 .b3{border:1px solid #D2D4D4; padding:31px 47px 71px 50px;}
 .m7 .b2{width:702px;}
@@ -267,6 +268,7 @@ strong{font-weight:bold;}
 .m10 .f .current{background:#D82E37;}
 /*-------------------模块m11--------------------------*/
 .m11 .br1{ margin-bottom:23px;}
+.m11 .br1 h2{font-size:21px; height:38px; line-height:38px; background:#E2E2E2; margin-bottom:26px; text-align:center;}
 .m11 .br1 dl{padding:7px 7px 20px; border:1px solid #D2D4D4;}
 .m11 .br1 dd{margin-bottom:16px;}
 .m11 .br1 dt{text-align:center; font-size:18px;}

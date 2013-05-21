@@ -37,11 +37,7 @@ $(function(){
 		return false;
 	})
 	//二级导航
-	$("#b .r3 .c1 .a1").toggle(function(){
+	$("#b .r3 .c1 .a1").hover(function(){
 		$(this).siblings("ul").show();	
-		return false;
-	},function(){
-		$(this).siblings("ul").hide();
-		return false;	
 	})
 })
