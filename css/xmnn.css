@@ -216,6 +216,8 @@ strong{font-weight:bold;}
 .m7 .b1 .br3{font-size:16px; line-height:1.75;}
 .m7 .b1 .br3 p{text-indent:2em;}
 .m7 .b2 .br1{ margin-bottom:23px; border:1px solid #D2D4D4; padding:14px 0 17px 18px;}
+.m7 .b2 .br1 dl{display:none;}
+.m7 .b2 .br1 .active{ display:block;}
 .m7 .b2 .br1 dt{text-align:center; font-size:18px; height:36px; line-height:36px; margin-top:-36px; background:#000;  position:relative; z-index:2; width:666px;}
 .m7 .b2 .br1 dt a{color:#fff;}
 .m7 .b2 .br2{padding-left:20px; padding-top:15px; padding-bottom:18px; margin-bottom:26px; border:1px solid #D2D4D4;}

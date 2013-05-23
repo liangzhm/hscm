@@ -30,6 +30,12 @@ $(function(){
 	})
 	//报名参加m7
 	$('.m7 form').html5Validate();
+	//作品展示m7
+	$('.m7 .b2 .br2 dl').click(function(){
+		var m7_index=$('.m7 .b2 .br2 dl').index(this);
+		$('.m7 .b2 .br1 dl').eq(m7_index).addClass('active').siblings().removeClass('active')
+		return false;
+	})
 	//海视频道
 	$('.m10 .br2 dl').click(function(){
 		var index=$('.m10 .br2 dl').index(this);
