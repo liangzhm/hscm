@@ -43,7 +43,9 @@ $(function(){
 		return false;
 	})
 	//二级导航
-	$("#b .r3 .c1 .a1").hover(function(){
-		$(this).siblings("ul").show();	
+	$("#b .r3 .c1 .s1").toggle(function(){
+		$(this).text('-').siblings("ul").show();
+	},function(){
+		$(this).text('+').siblings("ul").hide();	
 	})
 })
