@@ -196,6 +196,7 @@ strong{font-weight:bold;}
 .mb .h li{width:98px; height:43px; line-height:37px; text-align:center; font-size:16px;}
 .mb .h .active{ background:url(../img/tab-active.png) no-repeat;}
 .mb .h .active a{color:#fff;}
+.m6 h2{font-size:21px; height:38px; line-height:38px; background:#E2E2E2; margin-bottom:26px; text-align:center;}
 .m6 .b1{border:1px solid #D2D4D4; padding:8px;}
 .m6 .b1 .bc1{width:558px; padding-top:25px;}
 .m6 .b1 .bc1 dt{ height:35px; line-height:35px; background:#DB2332; margin-top:-35px; position:relative; z-index:2; text-align:center;}
